@@ -1,2 +1,3 @@
-# occupational-safety-course
-Materials for Occupational Safety course
+# Occupational Safety Course
+## Materials
+- Lectures   - Practical assignments   - Additional resources
